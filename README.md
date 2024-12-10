@@ -8,4 +8,4 @@ Find me on: <br>
 * [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/)
 <br>
 This is the only thing I have right now: <br>
-* [Tanpura Online](https://hyprrt.github.io/tanpura-online)
+[Website with Tanpura samples](https://hyprrt.github.io/tanpura-online)
