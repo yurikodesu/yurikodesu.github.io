@@ -1,12 +1,11 @@
-# Hey! This is hyprt!
-"The best way to predict the future is to invent it." - Alan Kay <br>
-A nobody with no real motive or anything. <br>
-Don't be full of yourself as its never beneficial! <br> <br>
+# Looks like you stumbled on my small little web space!
+Hello! I am a 15 year old with an avid interest in gaming and technology! I also like to read books and sing a lot! <br> <br>
 Find me on: <br>
 * [Reddit](https://reddit.com/u/thefrind54)
 * [GitHub](https://github.com/hyperio546)
 * [YouTube](https://youtube.com/@hyperio546)
 * [Telegram](https://t.me/hyprt546)
-
-Some cool websites made by me: <br>
-- [Tanpura Online](https://hyperio546.github.io/tanpura-online) (I still have to work on it)
+* [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/)
+<br>
+This is the only thing I have right now: <br>
+- [Tanpura Online](https://hyprrt.github.io/tanpura-online) (It's pretty much incomplete and WIP 😅)
