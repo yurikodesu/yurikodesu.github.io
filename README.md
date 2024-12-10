@@ -2,8 +2,8 @@
 Hello! I am a 15 year old with an avid interest in gaming and technology! I also like to read books and sing a lot! <br> <br>
 Find me on: <br>
 * [Reddit](https://reddit.com/u/thefrind54)
-* [GitHub](https://github.com/hyperio546)
-* [YouTube](https://youtube.com/@hyperio546)
+* [GitHub](https://github.com/hyprrt)
+* [YouTube](https://youtube.com/@hypxt)
 * [Telegram](https://t.me/hyprt546)
 * [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/) <br><br>
 
