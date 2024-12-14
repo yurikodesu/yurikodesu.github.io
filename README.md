@@ -7,5 +7,7 @@ Find me on: <br>
 * [Telegram](https://t.me/hyprt546)
 * [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/) <br><br>
 
-This is the only thing I have right now: <br>
+What I am working on: <br>
+- [Bunch of tweaks to Windows 11 for a more cleaner experience after a fresh install](https://github.com/hyprrt/hyprt-autounattend)
+- [Script to install and configure XFCE automatically with VNC in Termux!](https://github.com/hyprrt/termux-xfce)
 - [Website with Tanpura samples](https://hyprrt.github.io/tanpura-online)
