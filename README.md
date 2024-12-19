@@ -5,7 +5,7 @@ Find me on: <br>
 * [GitHub](https://github.com/hyprrt)
 * [YouTube](https://youtube.com/@hypxt)
 * [Telegram](https://t.me/hyprt546)
-* [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/) <br><br>
+* [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/) <br>
 
 What I am working on: <br>
 - [Bunch of tweaks to Windows 11 for a more cleaner experience after a fresh install](https://github.com/hyprrt/hyprt-autounattend)
