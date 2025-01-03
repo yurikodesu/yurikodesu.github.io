@@ -1,5 +1,5 @@
 # Looks like you stumbled on my small little web space!
-Hello! I am a 15 year old with an avid interest in gaming and technology! I also like to read books and sing a lot! <br> <br>
+Hello! I am a 16 year old with an avid interest in gaming and technology! I also like to read books and sing a lot! <br> <br>
 Find me on: <br>
 * [Reddit](https://reddit.com/u/thefrind54)
 * [GitHub](https://github.com/yuriko54)
