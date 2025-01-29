@@ -6,7 +6,7 @@ Find me on: <br>
 * [YouTube](https://youtube.com/@yuriko54)
 * [Telegram](https://t.me/yuriko546)
 * [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/)
-* [Anime stats](https://myanimelist.net/profile/yurikodesu) <br>
+* [Anime stats](https://anilist.co/user/yurikodesu/) <br>
 
 What I am working on: <br>
 - [Bunch of tweaks to Windows 11 for a more cleaner experience after a fresh install](https://github.com/yurikodesu/cleanerwin11)
