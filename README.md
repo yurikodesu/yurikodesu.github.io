@@ -9,5 +9,3 @@ Find me on:
 * [Anilist](https://anilist.co/user/yurikodesu/)
 * [Discord](https://discordid.netlify.app/?id=947775206141870111) <br>
 <br>
-visits:
-<img src="https://visit-counter.vercel.app/counter.png?page=yurikodesu.github.io&s=40&c=7866ff&bg=00000000&no=5&ff=digi&tb=&ta=" width="50">
