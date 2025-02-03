@@ -5,7 +5,6 @@ Find me on:
 * [GitHub](https://github.com/yurikodesu)
 * [YouTube](https://youtube.com/@yuriko54)
 * [Telegram](https://t.me/yuriko546)
-* [XDA Forums](https://xdaforums.com/m/hyperio546.12460877/)
 * [Anilist](https://anilist.co/user/yurikodesu/)
 * [Discord](https://discordid.netlify.app/?id=947775206141870111) <br>
 <br>
